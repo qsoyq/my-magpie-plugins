@@ -1,0 +1,10 @@
+{
+  "name": "my-magpie-request-hook-template",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "个人异步网关请求钩子模板",
+  "magpie": {
+    "hooks": "./hooks.js"
+  }
+}
